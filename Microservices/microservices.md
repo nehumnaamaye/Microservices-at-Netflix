@@ -48,4 +48,5 @@ Segment which is a customer data platform moved from over 140 separate microserv
 | Amazon Prime Video | Reverted to Monolith | Reduce cost, simplify system complexity |
 | Segment | Reverted to Monolith | Manageability and reduced overhead |
 
-*This therefore shows that microservices are excellent for large, complex systems needing independent scalability and frequent updates. But for some services — like intense real-time processing — a monolith can be simpler, cheaper, and faster to maintain.*
+
+*This therefore shows that microservices are excellent for large, complex systems needing independent scalability and frequent updates. But for some services like intense real-time processing a monolith can be simpler, cheaper and faster to maintain.*
