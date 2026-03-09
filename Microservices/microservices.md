@@ -1,3 +1,4 @@
+
 # Microservices at Netflix and Other Companies
 
 ## 1) Netflix: Microservices Architecture
@@ -50,3 +51,6 @@ Segment which is a customer data platform moved from over 140 separate microserv
 
 
 *This therefore shows that microservices are excellent for large, complex systems needing independent scalability and frequent updates. But for some services like intense real-time processing a monolith can be simpler, cheaper and faster to maintain.*
+
+# Work done by: ANSASIIRE NEHUM NAAMAYE S24B23\018
+
